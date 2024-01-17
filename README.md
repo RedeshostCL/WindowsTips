@@ -9,4 +9,8 @@ En este repositorio encontrarán comandos o scritps utiles para su día a día, 
 
 ### PowerShell
 
-## Scritps
+## Scripts
+
+### CMD
+
+### PowerShell
